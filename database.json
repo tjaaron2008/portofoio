@@ -1,0 +1,134 @@
+{
+  "personal": {
+    "name": "Your Name",
+    "role": "FY BBA Student",
+    "tagline": "Aspiring Business Professional | Curious Learner | Future Entrepreneur",
+    "location": "Goa, India",
+    "email": "your.email@example.com",
+    "phone": "+91 98765 43210",
+    "profileImage": "https://via.placeholder.com/200",
+    "about": "I am a First-Year Bachelor of Business Administration student with a keen interest in business, marketing, finance, entrepreneurship, and technology. I enjoy learning new skills, working on practical projects, and exploring opportunities that help me grow personally and professionally.",
+    "resume": "#"
+  },
+
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/yourusername",
+    "github": "https://github.com/yourusername",
+    "instagram": "https://instagram.com/yourusername"
+  },
+
+  "education": [
+    {
+      "degree": "Bachelor of Business Administration (BBA)",
+      "institution": "Your College / University",
+      "location": "Goa, India",
+      "duration": "2026 - 2029",
+      "description": "Currently pursuing my first year of BBA with an interest in business management, marketing, finance, and entrepreneurship.",
+      "grade": "CGPA: 8.5/10"
+    },
+    {
+      "degree": "Higher Secondary Education",
+      "institution": "Your School",
+      "location": "Goa, India",
+      "duration": "2024 - 2026",
+      "description": "Completed higher secondary education with a focus on commerce and business-related subjects.",
+      "grade": "Percentage: 85%"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Communication",
+      "level": 85
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": 75
+    },
+    {
+      "name": "PowerPoint",
+      "level": 85
+    },
+    {
+      "name": "Digital Marketing",
+      "level": 65
+    },
+    {
+      "name": "Business Research",
+      "level": 70
+    },
+    {
+      "name": "HTML & CSS",
+      "level": 60
+    },
+    {
+      "name": "JavaScript",
+      "level": 45
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Student Business Plan",
+      "category": "Business",
+      "description": "Created a hypothetical business plan covering the business idea, target audience, competitors, marketing strategy, operations, and financial projections.",
+      "technologies": ["Market Research", "Excel", "PowerPoint"],
+      "link": "#"
+    },
+    {
+      "title": "Social Media Marketing Campaign",
+      "category": "Marketing",
+      "description": "Designed a sample social media campaign for a fictional brand, including content ideas, target audience research, posting strategy, and campaign objectives.",
+      "technologies": ["Canva", "Market Research", "Social Media"],
+      "link": "#"
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "category": "Technology",
+      "description": "Developed a responsive personal portfolio website using HTML, CSS, JavaScript, and JSON-based data management.",
+      "technologies": ["HTML", "CSS", "JavaScript", "JSON"],
+      "link": "#"
+    }
+  ],
+
+  "experience": [
+    {
+      "position": "Student Volunteer",
+      "organization": "College Event",
+      "duration": "2026",
+      "description": "Assisted with event coordination, participant communication, registration, and general event management."
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Introduction to Digital Marketing",
+      "issuer": "Example Learning Platform",
+      "date": "2026",
+      "link": "#"
+    },
+    {
+      "name": "Excel for Beginners",
+      "issuer": "Example Learning Platform",
+      "date": "2026",
+      "link": "#"
+    }
+  ],
+
+  "achievements": [
+    "Participated in an inter-college business quiz.",
+    "Completed a beginner-level digital marketing course.",
+    "Volunteered at college events.",
+    "Created and presented a business plan as part of an academic project."
+  ],
+
+  "interests": [
+    "Entrepreneurship",
+    "Marketing",
+    "Finance",
+    "Technology",
+    "Public Speaking",
+    "Reading",
+    "Photography"
+  ]
+}
